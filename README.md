@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## ⌨️ Top languages:
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatGamingDEV&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatGamingDEV)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Stats :
-![Stats](https://github-readme-stats.vercel.app/api?username=MatGamingDEV&show_icons=true&count_private=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MatGamingDEV&show_icons=true&count_private=true&theme=merk)
