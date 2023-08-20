@@ -13,19 +13,19 @@ Discover all my projects!
 - *..soon..*
 
 # Numbers to highlight
-> 📦 Total Commits `0`
+> 📦 Total Commits `<commits>`
 > 
-> 📜 Repositories: `0`
+> 📜 Repositories: `<repo>`
 > 
-> ⭐ Total Stars Earned: `0`
+> ⭐ Total Stars Earned: `<stars>`
 
 > **Top language**
 > 
->  <code><img height="30" src="https://pngimg.com/uploads/php/php_PNG23.png"></code>PHP: ` 0%`
+> <value1>
 >
->  <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png"></code>Dart: ` 0%`
+> <value2>
 >
->  <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code>Kotlin: ` 0%`
+> <value3>
 ## Contact
 
 Feel free to reach out via [email](mailto:mat.dev.official@gmail.com) to discuss collaborations, ideas, or just to connect.
