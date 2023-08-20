@@ -19,13 +19,14 @@ Discover all my projects!
 > 
 > ⭐ Total Stars Earned: **<stars>**
 
-> **Top language**
 > 
-> <value1>
->
-> <value2>
->
-> <value3>
+
+**Top language** 
+<value1>
+
+<value2>
+
+<value3>
 ## Contact
 
 Feel free to reach out via [email](mailto:mat.dev.official@gmail.com) to discuss collaborations, ideas, or just to connect.
