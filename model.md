@@ -12,7 +12,7 @@ Discover all my projects!
 - [Recipe Scrapers](https://github.com/MatteoLore/RecipeScrapers): A PHP library that allows you to scrape and extract recipe information from somes cooking websites.
 - *..soon..*
 
-# Numbers to highlight
+## Numbers to highlight
 > 📦 Total Commits **<commits>**
 > 
 > 📜 Repositories: **<repo>**
@@ -28,6 +28,7 @@ Discover all my projects!
 <value2>
 
 <value3>
+
 ## Contact
 
 Feel free to reach out via [email](mailto:mat.dev.official@gmail.com) to discuss collaborations, ideas, or just to connect.
