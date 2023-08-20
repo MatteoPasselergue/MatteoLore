@@ -435,9 +435,6 @@ def language(data):
 
 
 async def main() -> None:
-    access_token = "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"
-    user = "MatteoLore"
-
     access_token = os.getenv("ACCESS_TOKEN")
     user = os.getenv("GITHUB_ACTOR")
     if access_token is None or user is None:
