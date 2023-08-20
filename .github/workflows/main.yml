@@ -1,4 +1,4 @@
-name: Generate Stats Images
+name: Generate Readme data
 
 on:
   push:

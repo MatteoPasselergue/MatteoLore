@@ -13,11 +13,11 @@ Discover all my projects!
 - *..soon..*
 
 # Numbers to highlight
-> 📦 Total Commits `<commits>`
+> 📦 Total Commits **<commits>**
 > 
-> 📜 Repositories: `<repo>`
+> 📜 Repositories: **<repo>**
 > 
-> ⭐ Total Stars Earned: `<stars>`
+> ⭐ Total Stars Earned: **<stars>**
 
 > **Top language**
 > 

@@ -429,7 +429,7 @@ def language(data):
         "Hack": "https://www.bonconseil.org/wp-content/uploads/2019/10/rond_gris.png",
 
     }
-    formatted_languages = [f' <code><img height="30" src="{d[k]}"></code>{k}: `{v: 0.0f}%`' for k, v in language_data.items()]
+    formatted_languages = [f' <code><img height="30" src="{d[k]}"></code>{k}: **{v: 0.0f}%**' for k, v in language_data.items()]
 
     return formatted_languages
 
