@@ -13,7 +13,7 @@ Discover all my projects!
 - *..soon..*
 
 ## Numbers to highlight
-> 📦 Total Commits **666**
+> 📦 Total Commits **673**
 > 
 > 📜 Repositories: **21**
 > 
