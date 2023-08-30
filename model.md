@@ -10,6 +10,7 @@
 Discover all my projects!
 
 - [Recipe Scrapers](https://github.com/MatteoLore/RecipeScrapers): A PHP library that allows you to scrape and extract recipe information from somes cooking websites.
+- [project Manager](https://github.com/MatteoLore/ProjectManager): Project Manager is a Flutter-based application that helps you manage your projects and tasks efficiently. 
 - *..soon..*
 
 ## Numbers to highlight
