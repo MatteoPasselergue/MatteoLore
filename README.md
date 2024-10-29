@@ -14,9 +14,9 @@ Discover all my projects!
 - *..soon..*
 
 ## Numbers to highlight
-> 📦 Total Commits **757**
+> 📦 Total Commits **778**
 > 
-> 📜 Repositories: **23**
+> 📜 Repositories: **25**
 > 
 > ⭐ Total Stars Earned: **6**
 
@@ -24,9 +24,9 @@ Discover all my projects!
 
 **Top language** 
 
- <code><img height="15" src="https://pngimg.com/uploads/php/php_PNG23.png"></code>  PHP:  76%
+ <code><img height="15" src="https://pngimg.com/uploads/php/php_PNG23.png"></code>  PHP:  75%
 
- <code><img height="15" src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png"></code>  Dart:  7%
+ <code><img height="15" src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png"></code>  Dart:  9%
 
  <code><img height="15" src="https://tse2.mm.bing.net/th?id=OIP.fkvxbuKHOLhO4A_MqA9DVAHaHv&pid=Api"></code>  Python:  6%
 
