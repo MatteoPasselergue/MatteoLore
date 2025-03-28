@@ -25,9 +25,9 @@
 ### 📌 Projects
 🔹 **[Radici Parlate](https://github.com/MatteoPasselergue/radici-parlate)** → App for preserving Trentino dialects
 
-🔹 **[Recipe Scrapers](https://github.com/MatteoLore/RecipeScrapers)** → A PHP library that allows you to scrape and extract recipe information from somes cooking websites.
+🔹 **[Recipe Scrapers](https://github.com/MatteoPasselergue/RecipeScrapers)** → A PHP library that allows you to scrape and extract recipe information from somes cooking websites.
 
-🔹 **[Project Manager](https://github.com/MatteoLore/ProjectManager)** → Project Manager is a Flutter-based application that helps you manage your projects and tasks efficiently.
+🔹 **[Project Manager](https://github.com/MatteoPasselergue/ProjectManager)** → Project Manager is a Flutter-based application that helps you manage your projects and tasks efficiently.
 
 ---
 
